@@ -8,8 +8,10 @@ via request forms, without revealing their privacy (contact info, etc.) to publi
 This repository is forked from the development stage [repo](https://github.com/WenlinMao/Furnitrade).
 It's mainly used for deployment and presentation.  
 
-### Web Url
+### Website
 www.furnitrade.net
+
+![Screen](documentation/FTPSampleSceen.png)
 
 ### Developer
 

@@ -5,7 +5,7 @@
 import os
 
 from flask import Flask
-from config import ProductionConfig
+#from config import ProductionConfig
 from flask_cors import CORS
 from flask_mail import Mail
 
@@ -13,11 +13,12 @@ from flask_mail import Mail
 mail = Mail()
 
 
-def create_app(config_object=ProductionConfig):
+#def create_app(config_object=ProductionConfig):
+def create_app():
     # create and configure the app
     application = Flask(__name__, instance_relative_config=True)
 
-    application.config.from_object(config_object)
+    #application.config.from_object(config_object)
 
     # ensure the instance folder exists
     try:
