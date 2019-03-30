@@ -5,11 +5,15 @@ solution for college students living off-campus. Sellers can post, edit and dele
 funiture information, while buyers can easily browse by category. They can communicate 
 via request forms, without revealing their privacy (contact info, etc.) to public.
 
+This project originates from CSE110 and is currently undergoing refactorization and delpoyment.
 This repository is forked from the development stage [repo](https://github.com/WenlinMao/Furnitrade).
-It's mainly used for deployment and presentation.  
+This version of repo is mainly used for deployment and presentation.  
 
 ### Website
-www.furnitrade.net
+www.furnitrade.net.
+
+*Link may be unavailable because we end the cloud service plan and database connection, in order to*
+*save on budget while we are fixing bugs. To preview, please kindly refer to the project demo*
 
 ![Screen](documentation/FTPSampleSceen.png)
 
